@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>9</zoom_level>
+  <element>
+    <id>UMLSpecialState</id>
+    <coordinates>
+      <x>54</x>
+      <y>252</y>
+      <w>18</w>
+      <h>18</h>
+    </coordinates>
+    <panel_attributes>type=initial</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>144</x>
+      <y>243</y>
+      <w>135</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>Standing</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>63</x>
+      <y>243</y>
+      <w>99</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+start</panel_attributes>
+    <additional_attributes>10.0;20.0;90.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>189</x>
+      <y>54</y>
+      <w>81</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Jumping</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>144</x>
+      <y>468</y>
+      <w>126</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Kneeling</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>684</x>
+      <y>243</y>
+      <w>252</w>
+      <h>45</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+  fatal blow received game over
+  fatal blow given game over</panel_attributes>
+    <additional_attributes>10.0;20.0;260.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>270</x>
+      <y>234</y>
+      <w>360</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+
+attack/kick
+blow received
+</panel_attributes>
+    <additional_attributes>10.0;20.0;380.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>189</x>
+      <y>108</y>
+      <w>36</w>
+      <h>153</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+up</panel_attributes>
+    <additional_attributes>10.0;150.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>144</x>
+      <y>288</y>
+      <w>54</w>
+      <h>198</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+down</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;200.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>153</x>
+      <y>18</y>
+      <w>90</w>
+      <h>81</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+up </panel_attributes>
+    <additional_attributes>40.0;70.0;10.0;70.0;10.0;10.0;80.0;10.0;80.0;40.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>252</x>
+      <y>108</y>
+      <w>54</w>
+      <h>153</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+down</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;150.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>252</x>
+      <y>288</y>
+      <w>108</w>
+      <h>198</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+up
+special/rollover</panel_attributes>
+    <additional_attributes>10.0;200.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>261</x>
+      <y>468</y>
+      <w>369</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+
+attack/fistpunch
+blow received</panel_attributes>
+    <additional_attributes>10.0;20.0;390.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>261</x>
+      <y>54</y>
+      <w>369</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+
+attack/double kick
+blow received
+</panel_attributes>
+    <additional_attributes>10.0;20.0;390.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>162</x>
+      <y>288</y>
+      <w>90</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+
+special/block</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;30.0;80.0;30.0;80.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>27</x>
+      <y>90</y>
+      <w>180</w>
+      <h>414</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+
+
+
+
+
+
+special/duck</panel_attributes>
+    <additional_attributes>180.0;10.0;10.0;10.0;10.0;440.0;130.0;440.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>612</x>
+      <y>54</y>
+      <w>81</w>
+      <h>486</h>
+    </coordinates>
+    <panel_attributes>Fight
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>621</x>
+      <y>495</y>
+      <w>207</w>
+      <h>162</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+
+attack repeat
+calculate new player healthstates</panel_attributes>
+    <additional_attributes>50.0;50.0;50.0;140.0;170.0;140.0;170.0;10.0;80.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLSpecialState</id>
+    <coordinates>
+      <x>918</x>
+      <y>252</y>
+      <w>18</w>
+      <h>18</h>
+    </coordinates>
+    <panel_attributes>type=final</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>270</x>
+      <y>270</y>
+      <w>360</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+
+attack released
+</panel_attributes>
+    <additional_attributes>380.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>261</x>
+      <y>90</y>
+      <w>369</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+
+attack released
+</panel_attributes>
+    <additional_attributes>390.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>261</x>
+      <y>513</y>
+      <w>369</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+
+attack released
+</panel_attributes>
+    <additional_attributes>390.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+</diagram>
