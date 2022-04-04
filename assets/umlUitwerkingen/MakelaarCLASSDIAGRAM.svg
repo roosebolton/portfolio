@@ -46,12 +46,12 @@
       /></clipPath
     ></defs
     ><g fill="rgb(0,0,255)" fill-opacity="0.4902" stroke-opacity="0.4902" stroke="rgb(0,0,255)"
-    ><path d="M0.5 0.5 L111.665 0.5 L111.665 21.4688 L149 21.4688 L149 69 L0.5 69 Z" stroke="none" clip-path="url(#clipPath2)"
+    ><path d="M0.5 0.5 L111.665 0.5 L111.665 21.475 L149 21.475 L149 69 L0.5 69 Z" stroke="none" clip-path="url(#clipPath2)"
     /></g
     ><g
-    ><path fill="none" d="M0.5 0.5 L111.665 0.5 L111.665 21.4688 L149 21.4688 L149 69 L0.5 69 Z" clip-path="url(#clipPath2)"
-      /><path fill="none" d="M0.5 21.4688 L111.665 21.4688" clip-path="url(#clipPath2)"
-      /><text x="5" font-size="14px" y="15.9688" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" xml:space="preserve"
+    ><path fill="none" d="M0.5 0.5 L111.665 0.5 L111.665 21.475 L149 21.475 L149 69 L0.5 69 Z" clip-path="url(#clipPath2)"
+      /><path fill="none" d="M0.5 21.475 L111.665 21.475" clip-path="url(#clipPath2)"
+      /><text x="5" font-size="14px" y="15.975" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >nl.hva.miw.ooad</text
     ></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(300,250)" stroke-opacity="0" stroke="rgb(255,255,255)"
@@ -59,123 +59,122 @@
     /></g
     ><g transform="translate(300,250)"
     ><rect fill="none" x="0.5" width="258.5" height="108.5" y="0.5" clip-path="url(#clipPath3)"
-      /><text x="111" font-size="14px" y="17.9688" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="111" font-size="14px" y="17.975" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >Koper</text
-      ><path fill="none" d="M1 23.9688 L259 23.9688" clip-path="url(#clipPath3)"
-      /><text x="5" font-size="14px" y="38.9375" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><path fill="none" d="M1 23.975 L259 23.975" clip-path="url(#clipPath3)"
+      /><text x="5" font-size="14px" y="38.95" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >-next_id = 1: int</text
-      ><text x="5" font-size="14px" y="54.9062" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="54.925" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >-id: int</text
-      ><path fill="none" d="M1 60.9062 L259 60.9062" clip-path="url(#clipPath3)"
-      /><path fill="none" d="M1 81.875 L259 81.875" clip-path="url(#clipPath3)"
+      ><path fill="none" d="M1 60.925 L259 60.925" clip-path="url(#clipPath3)"
+      /><path fill="none" d="M1 81.9 L259 81.9" clip-path="url(#clipPath3)"
     /></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(520,10)" stroke-opacity="0" stroke="rgb(255,255,255)"
     ><rect x="0.5" width="268.5" height="108.5" y="0.5" clip-path="url(#clipPath4)" stroke="none"
     /></g
     ><g transform="translate(520,10)"
     ><rect fill="none" x="0.5" width="268.5" height="108.5" y="0.5" clip-path="url(#clipPath4)"
-      /><text x="112" font-size="14px" y="17.9688" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="112" font-size="14px" y="17.975" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >Person</text
-      ><path fill="none" d="M1 23.9688 L269 23.9688" clip-path="url(#clipPath4)"
-      /><text x="5" font-size="14px" y="38.9375" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><path fill="none" d="M1 23.975 L269 23.975" clip-path="url(#clipPath4)"
+      /><text x="5" font-size="14px" y="38.95" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >-Naam: String</text
-      ><text x="5" font-size="14px" y="54.9062" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="54.925" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >-Adres: String</text
-      ><path fill="none" d="M1 60.9062 L269 60.9062" clip-path="url(#clipPath4)"
-      /><path fill="none" d="M1 81.875 L269 81.875" clip-path="url(#clipPath4)"
+      ><path fill="none" d="M1 60.925 L269 60.925" clip-path="url(#clipPath4)"
+      /><path fill="none" d="M1 81.9 L269 81.9" clip-path="url(#clipPath4)"
     /></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(770,240)" stroke-opacity="0" stroke="rgb(255,255,255)"
     ><rect x="0.5" width="308.5" height="188.5" y="0.5" clip-path="url(#clipPath5)" stroke="none"
     /></g
     ><g transform="translate(770,240)"
     ><rect fill="none" x="0.5" width="308.5" height="188.5" y="0.5" clip-path="url(#clipPath5)"
-      /><text x="126" font-size="14px" y="17.9688" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="126" font-size="14px" y="17.975" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >Makelaar</text
-      ><path fill="none" d="M1 23.9688 L309 23.9688" clip-path="url(#clipPath5)"
-      /><text x="5" font-size="14px" y="38.9375" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><path fill="none" d="M1 23.975 L309 23.975" clip-path="url(#clipPath5)"
+      /><text x="5" font-size="14px" y="38.95" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >-next_id = 1: int</text
-      ><text x="5" font-size="14px" y="54.9062" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="54.925" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >-id: int</text
-      ><text x="5" font-size="14px" y="70.875" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="70.9" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >#verkochteHuizen = new ArrayList(): List&lt;Huis&gt;</text
-      ><path fill="none" d="M1 76.875 L309 76.875" clip-path="url(#clipPath5)"
-      /><text x="5" font-size="14px" y="91.8438" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><path fill="none" d="M1 76.9 L309 76.9" clip-path="url(#clipPath5)"
+      /><text x="5" font-size="14px" y="91.875" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >~huisVerkocht(Huis huis): void</text
-      ><text x="5" font-size="14px" y="107.8125" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="107.85" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >#aantalVerkochteHuizen(): int</text
-      ><text x="5" font-size="14px" y="123.7812" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="123.825" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >~totaleOmzet(): double</text
-      ><text x="5" font-size="14px" y="139.75" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="139.8" clip-path="url(#clipPath5)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >+gemiddeldeHuisPrijs(): double</text
-      ><path fill="none" d="M1 145.75 L309 145.75" clip-path="url(#clipPath5)"
+      ><path fill="none" d="M1 145.8 L309 145.8" clip-path="url(#clipPath5)"
     /></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(140,820)" stroke-opacity="0" stroke="rgb(255,255,255)"
     ><rect x="0.5" width="898.5" height="248.5" y="0.5" clip-path="url(#clipPath6)" stroke="none"
     /></g
     ><g transform="translate(140,820)"
     ><rect fill="none" x="0.5" width="898.5" height="248.5" y="0.5" clip-path="url(#clipPath6)"
-      /><text x="430" font-size="14px" y="17.9688" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="430" font-size="14px" y="17.975" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >Funda</text
-      ><path fill="none" d="M1 23.9688 L899 23.9688" clip-path="url(#clipPath6)"
-      /><text x="5" font-size="14px" y="38.9375" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><path fill="none" d="M1 23.975 L899 23.975" clip-path="url(#clipPath6)"
+      /><text x="5" font-size="14px" y="38.95" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >~makelaars = new HashMap(): Map&lt;Integer, Makelaar&gt;</text
-      ><text x="5" font-size="14px" y="54.9062" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="54.925" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >~kopers = new HashMap(): Map&lt;Integer, Koper&gt;</text
-      ><text x="5" font-size="14px" y="70.875" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="70.9" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >~huizen = new HashMap(): Map&lt;Integer, Huis&gt;</text
-      ><path fill="none" d="M1 76.875 L899 76.875" clip-path="url(#clipPath6)"
-      /><text x="5" font-size="14px" y="91.8438" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><path fill="none" d="M1 76.9 L899 76.9" clip-path="url(#clipPath6)"
+      /><text x="5" font-size="14px" y="91.875" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >+registreerMakelaar(String naam, String adres): int</text
-      ><text x="5" font-size="14px" y="107.8125" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="107.85" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >+registreerKoper(String naam, String adres): int</text
-      ><text x="5" font-size="14px" y="123.7812" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="123.825" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >+registreerHuis(int m_id, String adres, int oppervlakte, double prijs): int</text
-      ><text x="5" font-size="14px" y="139.75" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="139.8" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >+koopHuis(int k_id, int h_id): void</text
-      ><text x="5" font-size="14px" y="155.7188" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="155.775" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >+totaleOmzet(int m_id): double</text
-      ><text x="5" font-size="14px" y="171.6875" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="171.75" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >-isGeregistreerdKoper(int k_id): boolean</text
-      ><text x="5" font-size="14px" y="187.6562" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="187.725" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >-isGeregistreerdMakelaar(int m_id): boolean</text
-      ><text x="5" font-size="14px" y="203.625" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="203.7" clip-path="url(#clipPath6)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >-isGeregistreerdHuis(int h_id): boolean</text
-      ><path fill="none" d="M1 209.625 L899 209.625" clip-path="url(#clipPath6)"
+      ><path fill="none" d="M1 209.7 L899 209.7" clip-path="url(#clipPath6)"
     /></g
     ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(380,540)" stroke-opacity="0" stroke="rgb(255,255,255)"
     ><rect x="0.5" width="478.5" height="198.5" y="0.5" clip-path="url(#clipPath7)" stroke="none"
     /></g
     ><g transform="translate(380,540)"
     ><rect fill="none" x="0.5" width="478.5" height="198.5" y="0.5" clip-path="url(#clipPath7)"
-      /><text x="225" font-size="14px" y="17.9688" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="225" font-size="14px" y="17.975" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >Huis</text
-      ><path fill="none" d="M1 23.9688 L479 23.9688" clip-path="url(#clipPath7)"
-      /><text x="5" font-size="14px" y="38.9375" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><path fill="none" d="M1 23.975 L479 23.975" clip-path="url(#clipPath7)"
+      /><text x="5" font-size="14px" y="38.95" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >-next_id = 1000: int</text
-      ><text x="5" font-size="14px" y="54.9062" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="54.925" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >-id: int</text
-      ><text x="5" font-size="14px" y="70.875" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="70.9" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >-adres: String</text
-      ><text x="5" font-size="14px" y="86.8438" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="86.875" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >-oppervlakte: int</text
-      ><text x="5" font-size="14px" y="102.8125" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="102.85" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >-prijs: double</text
-      ><text x="5" font-size="14px" y="118.7812" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="118.825" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >-makelaar: Makelaar</text
-      ><text x="5" font-size="14px" y="134.75" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="134.8" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >-verkocht: boolean</text
-      ><path fill="none" d="M1 140.75 L479 140.75" clip-path="url(#clipPath7)"
-      /><text x="5" font-size="14px" y="155.7188" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><path fill="none" d="M1 140.8 L479 140.8" clip-path="url(#clipPath7)"
+      /><text x="5" font-size="14px" y="155.775" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >~isVerkocht(): boolean</text
-      ><text x="5" font-size="14px" y="171.6875" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="5" font-size="14px" y="171.75" clip-path="url(#clipPath7)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >~setVerkocht(boolean verkocht): void</text
-      ><path fill="none" d="M1 177.6875 L479 177.6875" clip-path="url(#clipPath7)"
+      ><path fill="none" d="M1 177.75 L479 177.75" clip-path="url(#clipPath7)"
     /></g
     ><g transform="translate(960,420)"
     ><path fill="none" d="M10.5 11.5 L10.5 400.5" clip-path="url(#clipPath8)"
       /><path fill="none" d="M4 22.2583 L10.5 11 L17 22.2583" clip-path="url(#clipPath8)"
-      /><path fill="none" d="M4 388.7417 L10.5 400 L17 388.7417" clip-path="url(#clipPath8)"
-      /><text x="14" font-size="14px" y="38.9688" clip-path="url(#clipPath8)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="14" font-size="14px" y="38.975" clip-path="url(#clipPath8)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >0..*</text
       ><text x="14" font-size="14px" y="384" clip-path="url(#clipPath8)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >1</text
@@ -183,8 +182,7 @@
     ><g transform="translate(600,730)"
     ><path fill="none" d="M10.5 11.5 L10.5 90.5" clip-path="url(#clipPath9)"
       /><path fill="none" d="M4 22.2583 L10.5 11 L17 22.2583" clip-path="url(#clipPath9)"
-      /><path fill="none" d="M4 78.7417 L10.5 90 L17 78.7417" clip-path="url(#clipPath9)"
-      /><text x="14" font-size="14px" y="38.9688" clip-path="url(#clipPath9)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="14" font-size="14px" y="38.975" clip-path="url(#clipPath9)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >0..*</text
       ><text x="14" font-size="14px" y="74" clip-path="url(#clipPath9)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >1</text
@@ -192,8 +190,7 @@
     ><g transform="translate(330,350)"
     ><path fill="none" d="M10.5 11.5 L10.5 470.5" clip-path="url(#clipPath10)"
       /><path fill="none" d="M4 22.2583 L10.5 11 L17 22.2583" clip-path="url(#clipPath10)"
-      /><path fill="none" d="M4 458.7417 L10.5 470 L17 458.7417" clip-path="url(#clipPath10)"
-      /><text x="14" font-size="14px" y="38.9688" clip-path="url(#clipPath10)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      /><text x="14" font-size="14px" y="38.975" clip-path="url(#clipPath10)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >0..*</text
       ><text x="14" font-size="14px" y="454" clip-path="url(#clipPath10)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >1</text
@@ -204,7 +201,7 @@
       /><path fill="none" d="M17 22.2583 L10.5 11 L4 22.2583" clip-path="url(#clipPath11)"
       /><text x="14" font-size="14px" y="104" clip-path="url(#clipPath11)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >0..*</text
-      ><text x="14" font-size="14px" y="38.9688" clip-path="url(#clipPath11)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      ><text x="14" font-size="14px" y="38.975" clip-path="url(#clipPath11)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >1</text
     ></g
     ><g transform="translate(410,180)"
