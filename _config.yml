@@ -3,7 +3,9 @@ author:
   name: GitHub User
   email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Dank voor het bekijken van mijn portfolio. Het was mij een waar genoegen. Live long and prosper.
+  Dank voor het bekijken van mijn portfolio.
+  Het was mij een waar genoegen.
+  Live long and prosper.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
