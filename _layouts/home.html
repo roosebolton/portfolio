@@ -2,6 +2,24 @@
 layout: default
 ---
 
+<style>
+  .moves {
+    position: relative;
+    animation: mymove 5s infinite;
+  }
+  #div1 {animation-timing-function: linear;}
+
+
+  @keyframes mymove {
+    from {left: 0px;}
+    to {left: 100%;}
+  }
+
+  img{
+    border-radius: 10%;
+  }
+</style>
+
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
